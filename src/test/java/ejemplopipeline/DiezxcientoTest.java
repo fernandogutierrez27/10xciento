@@ -10,7 +10,7 @@ public class DiezxcientoTest {
 	@Test
 	public void testDiezxciento() throws Exception {	
 		
-		assertEquals(23000000, diezxciento.diezxciento());
+		assertEquals(230000000, diezxciento.diezxciento());
 	}
 
 	@Test
